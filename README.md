@@ -1,56 +1,47 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Ritobroto-blueviolet)
 
-# Project Name
+# Custom React App
 
-> Description the project.
+> React upskill project, where I am building a react framework using React. The idea is something similar to old `TypeScript` - that was written in `TypeScript`
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React-19
+- JavaScript
+- JSX
+- HTML 5
+- CSS 3
+- Vite
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+[Coming Soon](https://#)
 
 ### Prerequisites
+- JavaScript
+- HTML 5
+- CSS 3
+- Basic NPM
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
+- `Git Clone https://github.com/RitobrotoMukherjee/upgrade-react-knowledge-year-2025.git`
+- `cd upgrade-react-knowledge-year-2025`
+- `npm i`
+- `npm run dev`
+- visit [@localhost](http://localhost:5173/)
 
 ### Deployment
-
+- Coming Soon[@livedemo](https://#)
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ritobroto Mukherjee**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/RitobrotoMukherjee)
+- Twitter: [@twitterhandle](https://#)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ritobroto-m3/)
 
 ## 🤝 Contributing
 
@@ -64,9 +55,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [Hitesh Chaudhary](https://www.youtube.com/@chaiaurcode)
 
 ## 📝 License
 
